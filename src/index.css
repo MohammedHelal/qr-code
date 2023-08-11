@@ -15,10 +15,6 @@ body {
   align-items: center;
   font-family: "Outfit";
 }
-#container {
-  display: flex;
-  padding: 10px;
-}
 
 #card {
   background-color: hsl(0, 0%, 100%);
