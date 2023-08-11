@@ -5,7 +5,6 @@ function App() {
     <>
       <div id="container">
         <Card />
-        <Card />
       </div>
     </>
   );
