@@ -40,8 +40,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is the first time I have used Github pages to host an app I built.
 This process was a bit difficult at first since I used vite to build the app and I didnt know the process to deploy and host on github pages, below are the links I used to learn this process.
 
-[Deploying Vite / React App to GitHub Pages](https://reactjs.org/) - this link shows the process to deploy vite to github pages using VS Code.
-[Github Actions and Workflows](https://github.com/sitek94/vite-deploy-demo) - this repo describes the process of deploying the app and showsa workflow you can copy to help you start.
+- [Deploying Vite / React App to GitHub Pages](https://reactjs.org/) - this link shows the process to deploy vite to github pages using VS Code.
+- [Github Actions and Workflows](https://github.com/sitek94/vite-deploy-demo) - this repo describes the process of deploying the app and showsa workflow you can copy to help you start.
 
 ### Continued development
 
